@@ -5,9 +5,7 @@
 img.rounded-circle.z-depth-0 {
     height: 40px;
 }
-element.style {
-    padding-top: 18px;
-}
+
 @media only screen and (max-width: 900px){
 	.picture{
 		display:none;
